@@ -1,0 +1,2 @@
+Flask-Script==2.0.6
+flask_restful  
