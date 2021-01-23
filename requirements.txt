@@ -1,2 +1,3 @@
-Flask-Script==2.0.6
-flask_restful  
+Flask-Script
+flask_restx
+pytest
